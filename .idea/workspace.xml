@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bb941c2-4533-4133-9f29-053ee726eee6" name="Default Changelist" comment="" />
+    <list default="true" id="9bb941c2-4533-4133-9f29-053ee726eee6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,7 @@
         <counts>
           <entry key="LICENSE" value="1" />
           <entry key="css" value="33" />
+          <entry key="gitignore" value="1" />
           <entry key="htaccess" value="2" />
           <entry key="html" value="65" />
           <entry key="ico" value="1" />
@@ -70,7 +74,7 @@
           <entry key="Image" value="20" />
           <entry key="JavaScript" value="17" />
           <entry key="PHP" value="78" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="RNG Compact" value="2" />
           <entry key="htaccess" value="2" />
         </counts>
@@ -78,6 +82,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="3804" />
+          <entry key="gitignore" value="13" />
           <entry key="htaccess" value="17" />
           <entry key="html" value="8166" />
           <entry key="js" value="1507" />
@@ -90,6 +95,7 @@
           <entry key="HTML" value="8289" />
           <entry key="JavaScript" value="1507" />
           <entry key="PHP" value="7953" />
+          <entry key="PLAIN_TEXT" value="13" />
           <entry key="htaccess" value="17" />
         </counts>
       </usages-collector>
@@ -98,10 +104,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12097">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="184">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -142,6 +148,9 @@
       <find>orders_new</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -179,6 +188,7 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/theme/theme.html" />
         <option value="$PROJECT_DIR$/theme/theme_min.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -194,10 +204,13 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="94" />
-    <option name="y" value="32" />
-    <option name="width" value="1389" />
-    <option name="height" value="1100" />
+    <option name="x" value="673" />
+    <option name="y" value="53" />
+    <option name="width" value="1031" />
+    <option name="height" value="836" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -211,16 +224,6 @@
             <path>
               <item name="smartkidbelt" type="b2602c69:ProjectViewProjectNode" />
               <item name="smartkidbelt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smartkidbelt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smartkidbelt" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smartkidbelt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smartkidbelt" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,15 +381,16 @@
       <workItem from="1583331561855" duration="49000" />
       <workItem from="1591176225882" duration="25000" />
       <workItem from="1595316304074" duration="312000" />
-      <workItem from="1595937046104" duration="299000" />
+      <workItem from="1595937046104" duration="666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262210000" />
+    <option name="totallyTimeSpent" value="262577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -400,10 +404,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27422908" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" order="12" visible="true" weight="0.19162996" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.19162996" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -418,9 +422,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/logo.jpg" />
     <entry file="file://$PROJECT_DIR$/img/item1.png">
       <provider selected="true" editor-type-id="images" />
@@ -668,6 +669,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12097">
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
